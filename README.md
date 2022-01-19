@@ -6,7 +6,7 @@ Optimization: Pose Graph Optimization using [GTSAM toolbox](https://www.borg.cc.
 
 Sample output:
 The rectangle blocks are the tags in world coordinates. The red path indicates the pose of camera at each frame.
-![alt text](https://drive.google.com/file/d/1IqSBtnICOz3gmZHJAi8rRNtnbdZJj4_G/view?usp=sharing)
+<img src="result_images/mapping%20gtsam%20side.jpg" width="425"/> <img src="result_images/mapping%20gtsam%20top.jpg" width="425"/> 
 
 For full report: [project 4 report.pdf](https://github.com/pwin17/slam/blob/master/project%204%20report.pdf "project 4 report.pdf")
 
